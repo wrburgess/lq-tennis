@@ -1,0 +1,7 @@
+---
+layout: page
+permalink: /2022/
+title: 2022 Season
+---
+
+LQTA 2022 Season Records
